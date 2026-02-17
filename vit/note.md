@@ -1,0 +1,1 @@
+This paper replication follows the tutorial [here](https://www.learnpytorch.io/08_pytorch_paper_replicating/).
